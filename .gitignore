@@ -1,18 +1,19 @@
 # Python virtual environment
 venv/
 
-# Dataset files
-data/
-*.csv
-*.pkl
-
-# Byte-compiled / cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# OS files
+# Environment variables
+.env
+
+# SQLite database files
+*.sqlite3
+
+# MacOS system files
 .DS_Store
-Thumbs.db
 
 # Logs
 *.log
