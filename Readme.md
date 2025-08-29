@@ -1,4 +1,4 @@
-# Fraud Detection App
+# TransacGuard - Fraud Detection App
 
 A web application that detects anomalous credit card transactions using machine learning.
 
@@ -52,4 +52,5 @@ This repository contains the Transaction Insights Dashboard, a tool designed to 
 
 - The app uses a clustering model (DBSCAN) to detect anomalies.
 - Large datasets and trained models are not included in the repository.
+
 
